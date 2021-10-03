@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CuadrosTexto"
         mc:Ignorable="d"
-        Title="MainWindow"
+        Title="Cuadros de Texto"
         Height="329.02"
         Width="351.13">
     <Grid>
